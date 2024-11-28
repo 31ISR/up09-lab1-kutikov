@@ -2,7 +2,8 @@
 
 ## Как выполнять
 
-Выполнять согласно алгоритму в [up09-index](https://github.com/31isr/up09-index)
+Выполнять согласно алг
+оритму в [up09-index](https://github.com/31isr/up09-index)
 
 ## 1. Создание Django проекта
 
